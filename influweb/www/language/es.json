@@ -1,0 +1,70 @@
+{
+    "menu": {
+        "inicio": "Inicio",
+        "patrocinadores": "Patrocinadores",
+        "promociones": "Promociones",
+        "eventos": "Eventos",
+        "iniciar sesion": "Iniciar sesión",
+        "registrarse": "Registrarse",
+        "cerrar sesion": "Cerrar sesión"
+    },
+    "inicio de sesion": {
+        "iniciar sesion l": "Iniciar sesión",
+        "correo electronico": "Correo electrónico:",
+        "pcorreo electronico": "Introduce tu correo electrónico",
+        "contraseña": "Contraseña:",
+        "pcontraseña": "Introduce tu contraseña",
+        "iniciar sesion b": "Iniciar sesión",
+        "error": "El email o la contraseña son incorrectos."
+    },
+    "registro": {
+        "registro de usuario": "Registro de usuario",
+        "usuario": "Usuario:",
+        "pusuario": "Introduce tu nombre de usuario",
+        "nombre": "Nombre y apellidos:",
+        "pnombre": "Introduce tu nombre",
+        "correo electronico": "Correo electrónico:",
+        "pcorreo electronico": "Introduce tu correo electrónico",
+        "contraseña": "Contraseña:",
+        "pcontraseña": "Introduce tu contraseña",
+        "confirmar contraseña": "Confirmar contraseña:",
+        "pconfirmar contraseña": "Confirma tu contraseña",
+        "registrar": "Registrarme"
+    },
+    "patrocinadores": {
+        "titulo": "Patrocinadores",
+        "descripcion": "Empresas colaboradoras que hacen posible esta comunidad.",
+        "informacion": "Más información"
+    },
+    "promociones": {
+        "titulo": "Promociones",
+        "buscador": "Introduce el nombre del producto que desea buscar...",
+        "descripcion": "En esta sección encontrarás las promociones disponbles este mes. El descuento está incluido en el precio.",
+        "informacion": "Si desea comprar este producto inicia sesión o regístrate.",
+        "carrito": "Añadir al carrito",
+        "pagar": "Pagar YA"
+    },
+    "eventos": {
+        "titulo": "PRÓXIMOS EVENTOS"
+    },
+    "carrito": {
+        "titulo": "CARRITO DE COMPRA",
+        "informacion1": "Seguir comprando",
+        "informacion2": "No hay productos en el carrito.",
+        "producto": "Producto",
+        "precio": "Precio",
+        "cantidad": "Cantidad",
+        "total": "Total",
+        "acciones": "Producto",
+        "eliminar": "Eliminar",
+        "pagar": "Pagar"
+    },
+    "perfil": {
+        "titulo": "Configuración de Perfil",
+        "nombre": "Actualizar Nombre:",
+        "correo electronico": "Actualizar Correo Electrónico:",
+        "contraseña": "Actualizar Contraseña:",
+        "avatar": "Actualizar Avatar:",
+        "guardar": "Guardar"
+    }
+}

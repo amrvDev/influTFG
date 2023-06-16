@@ -1,0 +1,67 @@
+
+.ih-info {
+  text-align: center;
+}
+
+.ih-info img {
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.4) !important;
+}
+
+.influencer-info {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.tipos1 {
+  grid-column: 1;
+}
+
+.tipos2 {
+  grid-column: 2;
+}
+
+.tipos3 {
+  grid-column: 1 / span 2;
+}
+
+.redes-sociales {
+  grid-column: 1 / span 2;
+  display: flex;
+  justify-content: center;
+}
+
+.redes-sociales a {
+  margin: 10px;
+}
+
+.tipo1, .tipo2, .tipo3 {
+  opacity: 0.8;
+  text-align: center;
+  border: 2px solid #444;
+  margin-bottom: 5px;
+  box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.4);
+}
+
+.influHead {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.influHead .ih-info {
+  display: flex;
+  align-items: center;
+}
+
+.influHead .ih-info img {
+  width: 200px;
+  height: 200px;
+  margin-right: 10px;
+}
+
+.influHead .ih-info h1,
+.influHead .ih-info h2 {
+  text-align: left;
+}
+

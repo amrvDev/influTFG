@@ -1,0 +1,70 @@
+{
+    "menu": {
+        "inicio": "Home",
+        "patrocinadores": "Sponsors",
+        "promociones": "Promotions",
+        "eventos": "Events",
+        "iniciar sesion": "Log in",
+        "registrarse": "Register",
+        "cerrar sesion": "Log out"
+    },
+    "inicio de sesion": {
+        "iniciar sesion l": "Log in",
+        "correo electronico": "Email:",
+        "pcorreo electronico": "Enter your email",
+        "contraseña": "Password:",
+        "pcontraseña": "Enter your password",
+        "iniciar sesion b": "Log in",
+        "error": "Invalid email or password."
+    },
+    "registro": {
+        "registro de usuario": "User Registration",
+        "usuario": "User:",
+        "pusuario": "Enter your username",
+        "nombre": "Name and Surname:",
+        "pnombre": "Enter your name",
+        "correo electronico": "Email:",
+        "pcorreo electronico": "Enter your email",
+        "contraseña": "Password:",
+        "pcontraseña": "Enter your password",
+        "confirmar contraseña": "Confirm Password:",
+        "pconfirmar contraseña": "Confirm your password",
+        "registrar": "Register"
+    },
+    "patrocinadores": {
+        "titulo": "Sponsors",
+        "descripcion": "Collaborating companies that make this community possible.",
+        "informacion": "More information"
+    },
+    "promociones": {
+        "titulo": "Promotions",
+        "buscador": "Enter the name of the product you want to search...",
+        "descripcion": "In this section you will find the available promotions for this month. The discount is already included in the price.",
+        "informacion": "If you want to buy this product, log in or register.",
+        "carrito": "Add to cart",
+        "pagar": "Pay Now"
+    },
+    "eventos": {
+        "titulo": "UPCOMING EVENTS"
+    },
+    "carrito": {
+        "titulo": "SHOPPING CART",
+        "informacion1": "Continue shopping",
+        "informacion2": "There are no products in the cart.",
+        "producto": "Product",
+        "precio": "Price",
+        "cantidad": "Quantity",
+        "total": "Total",
+        "acciones": "Actions",
+        "eliminar": "Remove",
+        "pagar": "Pay"
+    },
+    "perfil": {
+        "titulo": "Profile Settings",
+        "nombre": "Update Name:",
+        "correo electronico": "Update Email:",
+        "contraseña": "Update Password:",
+        "avatar": "Update Avatar:",
+        "guardar": "Save"
+    }
+}

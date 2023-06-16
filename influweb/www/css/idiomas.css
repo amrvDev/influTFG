@@ -1,0 +1,37 @@
+/* Idiomas */
+.flags {
+    position: relative;
+    margin: 10px;
+    width: 75px;
+  }
+  
+  .flags__item {
+    width: 30px;
+    margin: 10px;
+  }
+  
+  .flags__img {
+    display: block;
+    cursor: pointer;
+    border: 1px solid rgb(0, 0, 0);
+  }
+  
+  .flags__img:hover {
+    opacity: 60%;
+  }
+  
+  .flags__dropdown {
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    transform: translate(5%, -50%);
+    display: none;
+    background: #ffffff;
+    border: 1px solid rgb(0, 0, 0);
+    flex-direction: row;
+  }
+  
+  .flags__dropdown.active {
+    display: flex;
+  }
+  

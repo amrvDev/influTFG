@@ -1,0 +1,70 @@
+{
+    "menu": {
+        "inicio": "Accueil",
+        "patrocinadores": "Sponsors",
+        "promociones": "Promotions",
+        "eventos": "Événements",
+        "iniciar sesion": "Se connecter",
+        "registrarse": "S'inscrire",
+        "cerrar sesion": "Se déconnecter"
+    },
+    "inicio de sesion": {
+        "iniciar sesion l": "Se connecter",
+        "correo electronico": "Email :",
+        "pcorreo electronico": "Entrez votre adresse e-mail",
+        "contraseña": "Mot de passe :",
+        "pcontraseña": "Entrez votre mot de passe",
+        "iniciar sesion b": "Se connecter",
+        "error": "Adresse e-mail ou mot de passe incorrect."
+    },
+    "registro": {
+        "registro de usuario": "Enregistrement d'utilisateur",
+        "usuario": "Utilisateur :",
+        "pusuario": "Entrez votre nom d'utilisateur",
+        "nombre": "Nom et prénom :",
+        "pnombre": "Entrez votre nom",
+        "correo electronico": "Email :",
+        "pcorreo electronico": "Entrez votre adresse e-mail",
+        "contraseña": "Mot de passe :",
+        "pcontraseña": "Entrez votre mot de passe",
+        "confirmar contraseña": "Confirmer le mot de passe :",
+        "pconfirmar contraseña": "Confirmez votre mot de passe",
+        "registrar": "S'inscrire"
+    },
+    "patrocinadores": {
+        "titulo": "Sponsors",
+        "descripcion": "Entreprises partenaires qui rendent cette communauté possible.",
+        "informacion": "Plus d'informations"
+    },
+    "promociones": {
+        "titulo": "Promotions",
+        "buscador": "Entrez le nom du produit que vous souhaitez rechercher...",
+        "descripcion": "Dans cette section, vous trouverez les promotions disponibles ce mois-ci. La réduction est déjà incluse dans le prix.",
+        "informacion": "Si vous souhaitez acheter ce produit, connectez-vous ou inscrivez-vous.",
+        "carrito": "Ajouter au panier",
+        "pagar": "Payer maintenant"
+    },
+    "eventos": {
+        "titulo": "ÉVÉNEMENTS À VENIR"
+    },
+    "carrito": {
+        "titulo": "PANIER D'ACHATS",
+        "informacion1": "Continuer les achats",
+        "informacion2": "Il n'y a aucun produit dans le panier.",
+        "producto": "Produit",
+        "precio": "Prix",
+        "cantidad": "Quantité",
+        "total": "Total",
+        "acciones": "Actions",
+        "eliminar": "Supprimer",
+        "pagar": "Payer"
+    },
+    "perfil": {
+        "titulo": "Paramètres du profil",
+        "nombre": "Mettre à jour le nom :",
+        "correo electronico": "Mettre à jour l'e-mail :",
+        "contraseña": "Mettre à jour le mot de passe :",
+        "avatar": "Mettre à jour l'avatar :",
+        "guardar": "Enregistrer"
+    }
+}
